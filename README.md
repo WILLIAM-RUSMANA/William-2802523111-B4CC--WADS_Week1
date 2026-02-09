@@ -2,3 +2,4 @@
 
 base lol
 From Web App to Agentic System: Azure App Service + Foundry Agents + MCP.
+
